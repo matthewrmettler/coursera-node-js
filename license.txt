@@ -1,0 +1,4 @@
+All code written here was created following along with a Coursera online course. You can see Coursera's terms of use here:
+https://www.coursera.org/about/terms
+
+For me (Matthew Mettler, the one writing this code along with tutorials and exercise instructions) personally, feel free to use any code that you see here for any purposes. According to the bower files of these projects, they use the MIT License.
