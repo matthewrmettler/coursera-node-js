@@ -1,0 +1,19 @@
+{
+  "name": "node-examples",
+  "version": "1.0.0",
+  "description": "Homework for my Coursera Node.js course.",
+  "main": "solve-3.js",
+  "dependencies": {
+    "yargs": "^4.7.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "1 2"
+  },
+  "keywords": [
+    "node",
+    "coursera"
+  ],
+  "author": "Matthew Mettler",
+  "license": "ISC"
+}
